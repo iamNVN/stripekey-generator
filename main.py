@@ -1,4 +1,4 @@
-import requests, random, string, time
+import requests, random, string, time, os
 
 token = os.environ.get("BOT_TOKEN")
 chatid = os.environ.get("FORWARD_ID")
